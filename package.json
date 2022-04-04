@@ -24,6 +24,7 @@
     "@storybook/theming": "^6.4.19",
     "@swc/core": "^1.2.160",
     "@swc/jest": "^0.2.20",
+    "@testing-library/react-hooks": "^7.0.2",
     "@types/jest": "^27.4.1",
     "@types/lodash.merge": "^4.6.6",
     "@types/lodash.range": "^3.2.6",
